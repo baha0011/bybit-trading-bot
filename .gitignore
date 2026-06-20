@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# Runtime state
+state/
+*.lock
+
+# Trading data
+storage/trades.csv
+trades.csv
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Archives / backups
+*.zip
+*.tar.gz
+old_bots/
