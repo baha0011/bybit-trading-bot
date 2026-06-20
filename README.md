@@ -28,7 +28,7 @@ storage/trades.csv
 Telegram notifications / control
 ```
 
-Веб-dashboard больше не используется. Управление идёт через терминал и Telegram.
+Управление идёт через терминал и Telegram.
 
 ---
 
